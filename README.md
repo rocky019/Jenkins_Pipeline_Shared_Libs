@@ -1,3 +1,3 @@
 
-Shared
+Shared.
 
